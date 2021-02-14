@@ -5,11 +5,7 @@
 =========================================================
 
 
-* Licensed under MIT (https://github.com/creativetimofficial/paper-dashboard-react/blob/master/LICENSE.md)
 
-* Coded by Creative Tim
-
-=========================================================
 
 * The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
@@ -31,7 +27,7 @@ class Footer extends React.Component {
             <div className="credits ml-auto">
               <div className="copyright">
                 &copy; {1900 + new Date().getYear()}, made with{" "}
-                <i className="fa fa-heart heart" /> by Creative Tim
+                <i className="fa fa-heart heart" />
               </div>
             </div>
           </Row>

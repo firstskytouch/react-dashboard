@@ -5,11 +5,7 @@
 =========================================================
 
 
-* Licensed under MIT (https://github.com/creativetimofficial/paper-dashboard-react/blob/master/LICENSE.md)
 
-* Coded by Creative Tim
-
-=========================================================
 
 * The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
@@ -85,22 +81,6 @@ class Notifications extends React.Component {
               <Card>
                 <CardHeader>
                   <CardTitle tag="h5">Notifications</CardTitle>
-                  <p className="card-category">
-                    Handcrafted by our colleague{" "}
-                    <a
-                      target="_blank"
-                      href="https://www.instagram.com/manu.nazare/"
-                    >
-                      Nazare Emanuel-Ioan (Manu)
-                    </a>
-                    . Please checkout the{" "}
-                    <a
-                      href="https://github.com/creativetimofficial/react-notification-alert"
-                      target="_blank"
-                    >
-                      full documentation.
-                    </a>
-                  </p>
                 </CardHeader>
                 <CardBody>
                   <Row>

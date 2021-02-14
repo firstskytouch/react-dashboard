@@ -5,11 +5,7 @@
 =========================================================
 
 
-* Licensed under MIT (https://github.com/creativetimofficial/paper-dashboard-react/blob/master/LICENSE.md)
 
-* Coded by Creative Tim
-
-=========================================================
 
 * The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
@@ -135,7 +131,7 @@ class User extends React.Component {
                           </div>
                         </Col>
                         <Col md="7" xs="7">
-                          Creative Tim <br />
+                          <br />
                           <span className="text-success">
                             <small>Available</small>
                           </span>
